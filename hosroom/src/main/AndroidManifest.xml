@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.haieros.hosroom">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Translucent.Navigation">
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.Translucent.Navigation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".room.AddRoomActivity" />
+        <activity android:name=".room.ManagerRoomActivity" />
+        <activity android:name=".scene.AddScennActivity" />
+        <activity android:name=".scene.ManagerSceneActivity" />
+        <activity android:name=".widget.picture.ImageSelectActivity">
+
+        </activity>
+        <activity android:name="cn.bingoogolapple.qrcode.zbar.CaptureScanActivity"></activity>
+        <activity android:name="com.haieros.hosroom.widget.photo.ui.CropActivity">
+            <intent-filter>
+                <action android:name="com.ideahos.plugins.photo.crop" />
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="image/*" />
+                <category android:name="android.intent.category.ALTERNATIVE" />
+                <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

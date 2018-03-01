@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\zbar\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\c67299a63653c7815d0cd811aedfbd80c0eba923\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

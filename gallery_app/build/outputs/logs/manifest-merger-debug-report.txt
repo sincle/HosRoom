@@ -1,0 +1,320 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:1:1-183:12
+	package
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:2:9-38
+		INJECTED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml
+		INJECTED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:3:9-45
+	xmlns:android
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:4:5-74
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\DELL\.android\build-cache\84907cc8abac767426671c8800d97d5ca142dd5d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\DELL\.android\build-cache\09419f66f009511db254b1798cdca2c1add5d76c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\11c2db9c8f3269ac78143ce64393b6dcf7fd2d33\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\5eb040f99f402b016a237b7434ded695734a58fe\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\31432dd489fad8122089fa42649884ba37b93285\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\608c16681152bf5a47ea6107a0f6a4f53c9bd94f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\c18eededdf14be84ded930683f00453016661554\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\da7d0c01ecb17ce128c6260c5185e5e8664ad7fb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\5546fcc575bc28a5f7651409dae8c7ce31169c5c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\DELL\.android\build-cache\48d8e2d7bb4d592b8503af979a4e92a1bce2cd3f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\4cf4d48a3b1276349fd7eec2efd3713c3c990eb7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\7557dd030c6ace94c80847fa7ef64b7115f9d328\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\11c2db9c8f3269ac78143ce64393b6dcf7fd2d33\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:4:15-44
+		INJECTED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml
+		INJECTED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:4:45-71
+		INJECTED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml
+		INJECTED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml
+original-package
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:5:23-57
+uses-permission#android.permission.CAMERA
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:9:5-95
+	android:required
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:9:68-92
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:9:19-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_SMS
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:16:22-64
+application
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:18:5-182:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\DELL\.android\build-cache\84907cc8abac767426671c8800d97d5ca142dd5d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\DELL\.android\build-cache\09419f66f009511db254b1798cdca2c1add5d76c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\11c2db9c8f3269ac78143ce64393b6dcf7fd2d33\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\5eb040f99f402b016a237b7434ded695734a58fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\31432dd489fad8122089fa42649884ba37b93285\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\608c16681152bf5a47ea6107a0f6a4f53c9bd94f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\c18eededdf14be84ded930683f00453016661554\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\da7d0c01ecb17ce128c6260c5185e5e8664ad7fb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\5546fcc575bc28a5f7651409dae8c7ce31169c5c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\4cf4d48a3b1276349fd7eec2efd3713c3c990eb7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\7557dd030c6ace94c80847fa7ef64b7115f9d328\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:19:13-49
+	android:icon
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:18:18-61
+	android:taskAffinity
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:20:13-36
+activity#com.android.camera.GalleryPicker
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:21:9-32:20
+	android:clearTaskOnLaunch
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:25:17-49
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:22:17-61
+	android:configChanges
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:23:17-67
+	android:icon
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:24:17-61
+	android:taskAffinity
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:26:17-61
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:21:19-66
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:29:27-73
+category#android.intent.category.LAUNCHER
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:30:27-74
+activity#com.android.camera.ImageGallery
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:33:9-74:20
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:34:17-54
+	android:configChanges
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:35:17-67
+	android:icon
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:36:17-61
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:33:19-65
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:37:13-40:29
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.VIEW
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:42:25-66
+data
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:44:17-73
+	android:mimeType
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:44:23-70
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.OPENABLE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.GET_CONTENT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:52:25-73
+category#android.intent.category.OPENABLE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:53:27-74
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:56:13-62:29
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:63:13-68:29
+action#android.intent.action.PICK
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:64:25-66
+activity#com.android.camera.CropImage
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:75:9-87:20
+	android:process
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:77:13-41
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:79:13-47
+	android:configChanges
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:78:13-63
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:76:13-56
+intent-filter#android.intent.category.ALTERNATIVE+android.intent.category.DEFAULT+android.intent.category.SELECTED_ALTERNATIVE+com.android.camera.action.CROP
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:80:13-86:29
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:80:28-62
+action#com.android.camera.action.CROP
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:81:17-73
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:81:25-70
+category#android.intent.category.ALTERNATIVE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:84:17-80
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:84:27-77
+category#android.intent.category.SELECTED_ALTERNATIVE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:85:17-89
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:85:27-86
+activity#com.android.camera.ViewImage
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:88:9-97:20
+	android:screenOrientation
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:90:17-51
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:89:17-51
+	android:configChanges
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:91:17-67
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:88:19-62
+activity#com.android.camera.MovieView
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:98:9-125:20
+	android:screenOrientation
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:100:17-54
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:99:17-55
+	android:configChanges
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:101:17-67
+	android:theme
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:102:17-81
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:98:19-62
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:103:14-108:30
+category#android.intent.category.BROWSABLE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:106:17-78
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:106:27-75
+activity#com.android.camera.DeleteImage
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:126:9-129:20
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:127:17-62
+	android:theme
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:128:17-63
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:126:19-64
+activity#com.android.camera.GallerySettings
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:131:9-137:20
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:132:17-58
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:131:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.DEVELOPMENT_PREFERENCE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:133:13-136:29
+category#android.intent.category.DEVELOPMENT_PREFERENCE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:135:17-91
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:135:27-88
+activity#com.android.camera.Wallpaper
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:139:9-147:20
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:140:17-63
+	android:icon
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:141:17-61
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:139:19-62
+intent-filter#android.intent.action.ATTACH_DATA+android.intent.category.DEFAULT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:142:13-146:29
+action#android.intent.action.ATTACH_DATA
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:143:17-76
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:143:25-73
+activity#com.android.camera.PickWallpaper
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:149:9-156:20
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:150:17-62
+	android:icon
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:151:17-61
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:149:19-66
+intent-filter#android.intent.action.SET_WALLPAPER+android.intent.category.DEFAULT
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:152:13-155:29
+action#android.intent.action.SET_WALLPAPER
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:153:17-78
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:153:25-75
+receiver#com.android.camera.PhotoAppWidgetProvider
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:157:9-165:20
+	android:label
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:158:17-53
+	android:icon
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:159:17-61
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:157:19-75
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:160:13-162:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:161:17-84
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:161:25-81
+meta-data#android.appwidget.provider
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:163:13-164:62
+	android:resource
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:164:21-59
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:163:24-65
+activity#com.android.camera.PhotoAppWidgetConfigure
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:168:9-172:20
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:168:19-76
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:169:13-171:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:170:17-87
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:170:25-84
+activity#com.android.camera.PhotoAppWidgetBind
+ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:177:9-180:74
+	android:exported
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:178:17-40
+	android:permission
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:180:17-71
+	android:theme
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:179:17-63
+	android:name
+		ADDED from E:\edxc_yhb_android\hosroom\trunk\HosRoom\gallery_app\src\main\AndroidManifest.xml:177:19-71
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\11c2db9c8f3269ac78143ce64393b6dcf7fd2d33\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\5eb040f99f402b016a237b7434ded695734a58fe\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\31432dd489fad8122089fa42649884ba37b93285\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\608c16681152bf5a47ea6107a0f6a4f53c9bd94f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\c18eededdf14be84ded930683f00453016661554\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\da7d0c01ecb17ce128c6260c5185e5e8664ad7fb\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\5546fcc575bc28a5f7651409dae8c7ce31169c5c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\4cf4d48a3b1276349fd7eec2efd3713c3c990eb7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\7557dd030c6ace94c80847fa7ef64b7115f9d328\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\11c2db9c8f3269ac78143ce64393b6dcf7fd2d33\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DELL\.android\build-cache\11c2db9c8f3269ac78143ce64393b6dcf7fd2d33\output\AndroidManifest.xml:26:9-47

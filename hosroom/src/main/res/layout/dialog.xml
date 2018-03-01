@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="120dp"
+    android:layout_height="120dp"
+    android:background="@drawable/dialog_fragment_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+    <!--<com.haieros.cjp.avi.AVLoadingIndicatorView-->
+    <!--android:id="@+id/avi"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="30dp"-->
+    <!--app:maxWidth = "100dp"-->
+    <!--app:maxHeight = "60dp"-->
+    <!--/>-->
+    <com.haieros.cjp.widget.loading.RotateLoading
+        android:id="@+id/kang_rotateloading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:loading_background_color="#1a000000"
+        app:loading_color="#ffffff"
+        app:loading_duration="1500"
+        app:loading_radius="40dp"
+        app:loading_shadow_position="5dp"
+        app:loading_width="4dp" />
+    <TextView
+        android:id="@+id/kang_dialog_tv"
+        android:text="正在加载中"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

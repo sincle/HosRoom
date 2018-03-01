@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">浩思家居</string>
+    <string name="kang_login">登录</string>
+    <string name="kang_level">信用:</string>
+    <string name="kang_add_room">添加房间</string>
+    <string name="kang_add_scene">添加场景</string>
+    <string name="kang_manager_room">管理房间</string>
+    <string name="kang_manager_scene">管理场景</string>
+    <string name="kang_add_room_name">房间名称:</string>
+    <string name="kang_add">添加</string>
+    <string name="kang_delete">删除</string>
+</resources>

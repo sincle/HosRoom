@@ -1,0 +1,6 @@
+include ':hosroom', ':qrcodecore', ':zbar'
+include ':app_pic'
+include ':gallery'
+include ':udpsend'
+include ':ssid'
+//include ':simpleConfigWizard'

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:clipChildren="false"
+    android:background="#fff"
+    android:orientation="horizontal">
+
+    <RadioGroup
+        android:id="@+id/main_radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipChildren="false"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/main_home_1"
+            style="@style/mian_bottom_style"
+            android:drawableTop="@drawable/room_selecter"
+            android:text="房间" />
+
+        <RadioButton
+            android:id="@+id/main_home_2"
+            style="@style/mian_bottom_style"
+            android:drawableTop="@drawable/scene_selector"
+            android:text="场景" />
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@null"
+            android:button="@null"
+           />
+
+        <RadioButton
+            android:id="@+id/main_home_4"
+            style="@style/mian_bottom_style"
+            android:drawableTop="@drawable/equip_selector"
+            android:text="设备" />
+
+        <RadioButton
+            android:id="@+id/main_home_5"
+            style="@style/mian_bottom_style"
+            android:drawableTop="@drawable/sound_selector"
+            android:text="商城" />
+    </RadioGroup>
+    <ImageButton
+        android:id="@+id/main_voice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_centerHorizontal="true"
+        android:background="@null"
+        android:src="@mipmap/icon_float_voice"
+        android:button="@null"
+       />
+</RelativeLayout>

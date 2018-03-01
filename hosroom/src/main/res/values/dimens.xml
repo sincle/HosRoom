@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="_10dp">2.5dp</dimen>
+    <dimen name="border_thickness">3dp</dimen>
+    <dimen name="snap_radius">3dp</dimen>
+
+    <dimen name="crop_paint_width">1dp</dimen>
+    <dimen name="guideline_thickness">1px</dimen>
+    <dimen name="corner_length">20dp</dimen>
+    <dimen name="corner_thickness">2dp</dimen>
+    <dimen name="target_radius">24dp</dimen>
+    <dimen name="_3dp">3dp</dimen>
+    <dimen name="space">5dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\gallery_app\\build\\intermediates\\res\\merged\\debug\\xml\\gallery_preferences.xml",
+        "source": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\gallery_app\\src\\main\\res\\xml\\gallery_preferences.xml"
+    },
+    {
+        "merged": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\gallery_app\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_info.xml",
+        "source": "E:\\edxc_yhb_android\\hosroom\\trunk\\HosRoom\\gallery_app\\src\\main\\res\\xml\\appwidget_info.xml"
+    }
+]
